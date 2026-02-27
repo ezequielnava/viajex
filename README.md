@@ -70,7 +70,7 @@ source venv/bin/activate  # En Windows: venv\Scripts\activate
 pip install -r requirements.txt
 \`\`\`
 
-4. **Configurar variables de entorno**
+4. **Configurar las variables de entorno**
 \`\`\`bash
 cp .env.example .env
 # Editar .env con tus credenciales:
